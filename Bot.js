@@ -799,4 +799,4 @@ message.react("❌")
 
 
 
-client.login('NTI4MjM1MDU3NjIyODEwNjI3.DwfWfQ.sqLMI9orgEq5WCK5-kdaJKGlAcU');
+client.login(process.env.BOT_TOKEN);
